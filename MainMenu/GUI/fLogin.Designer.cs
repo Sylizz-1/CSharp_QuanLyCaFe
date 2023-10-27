@@ -1,8 +1,5 @@
-﻿namespace MainMenu.GUI
+﻿namespace Coffee.GUI
 {
-
-
-
 	partial class fLogin
 	{
 		/// <summary>

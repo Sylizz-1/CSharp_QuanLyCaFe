@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace MainMenu
+namespace Coffee.GUI
 {
     public partial class fMainMenu : Form
     {
