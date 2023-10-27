@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace MainMenu
+namespace MainMenu.GUI
 {
     public partial class fLogin : Form
     {
